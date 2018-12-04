@@ -1,8 +1,8 @@
 ## internet radio
-Play internet radio station.
+Play a selection of internet radio stations.
 
 ## Description
-Play Radio New Zealand radio stations using Mycroft.  Currently has RNZ National and Concert.
+Play Radio New Zealand radio stations using Mycroft.  Currently has both RNZ National and Concert.
 Will add BBC Radio as well.
 
 ## Examples

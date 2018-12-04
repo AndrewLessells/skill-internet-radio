@@ -1,4 +1,4 @@
-## internet radio
+## Internet radio
 Play a selection of internet radio stations.
 
 ## Description

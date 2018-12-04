@@ -94,4 +94,4 @@ class InternetRadioSkill(MycroftSkill):
                self.process.wait()
 
 def create_skill():
-    return InternetRadioSkill()
+    return RNZRadioSkill()

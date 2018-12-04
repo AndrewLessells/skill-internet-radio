@@ -33,7 +33,7 @@ __author__ = 'nmoore'
 LOGGER = getLogger(__name__)
 
 
-class InternetRadioSkill(MycroftSkill):
+class RNZRadioSkill(MycroftSkill):
     def __init__(self):
         super(InternetRadioSkill, self).__init__(name="InternetRadioSkill")
         self.audioservice = None
